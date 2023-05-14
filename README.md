@@ -1,6 +1,6 @@
+![Web Developer](https://media.licdn.com/dms/image/D5616AQGMS0RtSYnhLg/profile-displaybackgroundimage-shrink_350_1400/0/1683534637453?e=1689811200&v=beta&t=CVfTWrm1fybVP8MgTeQSpazS8Q1y8jSpcAiOZ4WHW3s)
 ### Hi there 👋, I'm Omar Sharif
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQGMS0RtSYnhLg/profile-displaybackgroundimage-shrink_350_1400/0/1683534637453?e=1689811200&v=beta&t=CVfTWrm1fybVP8MgTeQSpazS8Q1y8jSpcAiOZ4WHW3s)
 
 Hello, I'm Md Omar Sharif, a web developer skilled in HTML, CSS, Bootstrap, JavaScript, PHP, and WordPress CMS. I have 3 years of experience in web development and have worked on various projects throughout my career.
 
