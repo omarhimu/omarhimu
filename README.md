@@ -1,4 +1,4 @@
-![Web Developer] [(https://media.licdn.com/dms/image/D5616AQGMS0RtSYnhLg/profile-displaybackgroundimage-shrink_350_1400/0/1683534637453?e=1700092800&v=beta&t=OkxjM7np8joYG-XaWtVD-71m77IBzATfd4xqE0rlxSs)]
+![Web Developer] (https://media.licdn.com/dms/image/D5616AQGMS0RtSYnhLg/profile-displaybackgroundimage-shrink_350_1400/0/1683534637453?e=1700092800&v=beta&t=OkxjM7np8joYG-XaWtVD-71m77IBzATfd4xqE0rlxSs)
 <h1 align="center">Hi 👋, I'm Md Omar Sharif</h1>
 <h3 align="center">Hello, I’m Md Omar Sharif, a web developer skilled in HTML, CSS, Bootstrap, JavaScript, PHP, and WordPress CMS. I have 3 years of experience in web development and have worked on various projects throughout my career.</h3>
 
